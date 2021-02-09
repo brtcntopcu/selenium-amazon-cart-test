@@ -1,2 +1,2 @@
 # Amazon Cart Test
-Amazon cart total test check with python selenium.
+Amazon cart total test with python selenium.
